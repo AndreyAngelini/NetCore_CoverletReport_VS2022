@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore_CoverletReport_VS2022", "NetCore_CoverletReport_VS2022\NetCore_CoverletReport_VS2022.csproj", "{6BEA7DF1-07C1-45E0-AD78-B93949B5DCDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore_CoverletReport_VS2022_xUnitTests", "NetCore_CoverletReport_VS2022_xUnitTests\NetCore_CoverletReport_VS2022_xUnitTests.csproj", "{09479B0F-D002-4A5F-A736-01B7B3D6DAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BEA7DF1-07C1-45E0-AD78-B93949B5DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEA7DF1-07C1-45E0-AD78-B93949B5DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEA7DF1-07C1-45E0-AD78-B93949B5DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEA7DF1-07C1-45E0-AD78-B93949B5DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09479B0F-D002-4A5F-A736-01B7B3D6DAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09479B0F-D002-4A5F-A736-01B7B3D6DAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09479B0F-D002-4A5F-A736-01B7B3D6DAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09479B0F-D002-4A5F-A736-01B7B3D6DAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D11F38D-C9A1-4C53-AF4F-D241181E81D7}
+	EndGlobalSection
+EndGlobal

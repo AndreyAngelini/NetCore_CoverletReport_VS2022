@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NetCore_CoverletReport_VS2022.props" />
+</Project>
