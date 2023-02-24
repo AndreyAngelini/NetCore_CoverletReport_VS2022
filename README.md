@@ -1,0 +1,1 @@
+# NetCore_CoverletReport_VS2022
